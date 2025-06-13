@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Coderhacks</h1>
 <h3 align="center">A passionate MERN Stack Developer & AI Enthusiast</h3>
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,bootstrap,tailwind" alt="Skills" />
 </p>
